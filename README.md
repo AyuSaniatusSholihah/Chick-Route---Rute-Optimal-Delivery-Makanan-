@@ -6,9 +6,9 @@ Sistem Cerdas untuk Menentukan Rute Pengiriman Optimal dengan Efisiensi Jarak da
 **Dosen Pengampu:** Hasan Dwi Cahyono, S.Kom, M.Kom
 
 **Disusun Oleh:**
-* ANISA DEVINA `(L0124005)`
-* APRILLIA ALFA `(L0124013)`
-* AYU SANIATUS `(L0124135)`
+* ANISA DEVINA `(L0124002)`
+* APRILLIA ALFA `(L0124003)`
+* AYU SANIATUS `(L0124005)`
 
 ---
 
